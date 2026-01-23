@@ -69,7 +69,7 @@ improve my skills, and apply data-driven thinking to real-world problems.
 
 <h2>📫 Contact</h2>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/fco-solis"><img alt="Linkedin" title="Francisco Solis Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/fcosolis"><img alt="Github" title="Francisco Solis Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img alt="Gmail" title="Francisco Solis Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
