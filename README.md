@@ -2,9 +2,6 @@
 <h3 align="center">Systems Engineer | Data Analyst | Data Science Enthusiast</h3>
 <p align="center">
 
-<hr/>
-
-
 <h2>👋 About Me</h2>
 
 <p>
@@ -26,6 +23,12 @@ visualization, and machine learning fundamentals.
 <p>
 I consider myself a <strong>technology and data enthusiast</strong>, always motivated to learn new tools,
 improve my skills, and apply data-driven thinking to real-world problems.
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/fco-solis"><img alt="Linkedin" title="Francisco Solis Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/fcosolis"><img alt="Github" title="Francisco Solis Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Gmail" title="Francisco Solis Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <hr/>
