@@ -48,25 +48,7 @@ improve my skills, and apply data-driven thinking to real-world problems.
 
 <h2>📂 Featured Projects</h2>
 
-<ul>
-  <li>
-    <strong>Amazon Sales Performance Dashboard</strong><br/>
-    Sales, profitability, regional, and operational analysis built in Power BI.<br/>
-    🔗 <a href="https://github.com/your-username/amazon-sales-powerbi">View Repository</a>
-  </li>
-  <br/>
-  <li>
-    <strong>200 Years of Global Major Earthquakes</strong><br/>
-    One-page Power BI dashboard analyzing global earthquake patterns using geospatial and time-series data.<br/>
-    🔗 <a href="https://github.com/your-username/global-earthquakes-powerbi">View Repository</a>
-  </li>
-  <br/>
-  <li>
-    <strong>C# WPF Desktop Applications</strong><br/>
-    Desktop projects focused on UI design, data handling, and application logic using C# and WPF.<br/>
-    🔗 <a href="https://github.com/your-username/csharp-wpf-projects">View Repository</a>
-  </li>
-</ul>
+
 
 <hr/>
 
