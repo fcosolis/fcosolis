@@ -48,7 +48,36 @@ improve my skills, and apply data-driven thinking to real-world problems.
 
 <h2>📂 Featured Projects</h2>
 
+<ul>
+  <li>
+    <h3>
+      <a href="https://github.com/fcosolis/Power-BI-Portfolio" target="_blank">
+        📊 Power BI Portfolio
+      </a>
+    </h3>
+    <p>
+      A collection of interactive <strong>Power BI dashboards</strong> focused on KPI analysis, 
+      business performance tracking, and data storytelling. 
+      This portfolio showcases data modeling, advanced DAX measures, and visually engaging reports 
+      designed to support data-driven decision-making.
+    </p>
+  </li>
 
+  <li>
+    <h3>
+      <a href="https://github.com/fcosolis/Excel-Portfolio-Projects" target="_blank">
+        📈 Excel Portfolio Projects
+      </a>
+    </h3>
+    <p>
+      A set of analytical and automation projects developed in <strong>Microsoft Excel</strong>, 
+      including dynamic dashboards, advanced formulas, <strong>macros and VBA automation</strong>, 
+      and the development of <strong>advanced user interfaces</strong> for enhanced usability. 
+      These projects demonstrate strong analytical thinking, process optimization, 
+      and the ability to build business-oriented solutions.
+    </p>
+  </li>
+</ul>
 
 <hr/>
 
