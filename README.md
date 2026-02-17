@@ -52,7 +52,7 @@ improve my skills, and apply data-driven thinking to real-world problems.
   <li>
     <h3>
       <a href="https://github.com/fcosolis/Power-BI-Portfolio-Projects" target="_blank">
-        📊 Power BI Portfolio
+        📊 Power BI Portfolio Projects
       </a>
     </h3>
     <p>
